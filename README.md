@@ -90,6 +90,15 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
 - **Tableau** is also highly sought after, with a bold count of 6. Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
+
+
+
+
+
+
+
+
+
 # What I Learned
 # Conclusions
 
